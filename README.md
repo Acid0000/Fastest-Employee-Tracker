@@ -8,6 +8,7 @@ Fastest Employee Tracker is a command-line application that allows business owne
 - [Usage](#usage)
 - [Features](#features)
 - [Database Schema](#database-schema)
+- [Video](#video)
 - [License](#license)
 
 ## Installation
@@ -80,6 +81,8 @@ The application's database schema includes three tables:
   - `role_id`: INTEGER REFERENCES role(id)
   - `manager_id`: INTEGER REFERENCES employee(id)
 
+## Video
+https://youtu.be/dGHHNgBAc14
 
 ## License
 
