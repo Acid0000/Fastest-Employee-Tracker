@@ -1,4 +1,4 @@
-// utils/prompts.js
+
 const inquirer = require('inquirer');
 
 const mainMenuPrompt = () => {
